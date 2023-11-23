@@ -1,6 +1,6 @@
 {
     "version":2,
-    "name":"smile clinic",
+    "name":"smile-clinic-backend",
     "build":[
         {
             "src":"server.js",
